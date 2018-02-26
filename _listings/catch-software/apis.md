@@ -1,0 +1,35 @@
+---
+name: Catch Software
+description: Catch Software makes test management software, execution and integration
+  tools that help QA professionals get more out of their testing effort. Our flagship
+  product, Enterprise Tester, is test management software which was released in early
+  2009 and is built by QA professionals for QA professionals, Enterprise Tester provides
+  testers with easy management of test plans, execution sets, requirements, and incidents.
+image: http://kinlane-productions.s3.amazonaws.com/api-evangelist-site/company/logos/catch_logo.gif
+x-kinRank: "8"
+x-alexaRank: ""
+tags:
+- Testing
+- Stack Network
+created: "2018-02-26"
+modified: "2018-02-26"
+url: https://raw.githubusercontent.com/streamdata-gallery/testing/master/_listings/catch-software/apis.yaml
+specificationVersion: "0.14"
+apis: []
+x-common:
+- type: x-blog
+  url: http://catchsoftware.com/blogs/
+- type: x-blog-rss
+  url: http://catchsoftware.com/blogs/feed/
+- type: x-github
+  url: https://github.com/catch-software
+- type: x-twitter
+  url: https://twitter.com/catchsoftware
+- type: x-website
+  url: http://catchsoftware.com/
+include: []
+maintainers:
+- FN: Kin Lane
+  x-twitter: apievangelist
+  email: info@apievangelist.com
+---
